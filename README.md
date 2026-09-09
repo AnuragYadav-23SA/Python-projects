@@ -14,6 +14,6 @@ A collection of 21 Python mini-projects and practice scripts covering core progr
 ## How to Run
 Clone the repository and run any script using Python 3:
 ```bash
-git clone [https://github.com/AnuragYadav-23SA/Python-projects.git](https://github.com/AnuragYadav-23SA/Python-projects.git)
+[https://github.com/AnuragYadav-23SA/Python-projects.git](https://github.com/AnuragYadav-23SA/Python-projects.git)
 cd Python-projects
 python git01.py
